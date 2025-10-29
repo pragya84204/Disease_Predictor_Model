@@ -1,4 +1,3 @@
-# Disease_Predictor_Model
 # Disease Predictor Model (Diabetes)
 
 A machine learning project that predicts diabetes risk using Random Forest Classifier based on clinical measurements and patient data.
@@ -146,7 +145,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Your Name - Pragya Saha
 
-Project Link: [https://github.com/yourusername/disease-predictor-model]()
+Project Link: [https://github.com/pragya84204/Disease_Predictor_Model.git]
 
 ## 🙏 Acknowledgments
 
