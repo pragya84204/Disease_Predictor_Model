@@ -155,4 +155,3 @@ Project Link: [https://github.com/pragya84204/Disease_Predictor_Model.git]
 
 ---
 
-⭐ If you found this project helpful, please consider giving it a star!
